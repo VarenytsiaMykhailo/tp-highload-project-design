@@ -27,5 +27,6 @@
 В данном проекте будем стримиться к нагрузке 1 миллионов пользователей в день, ориентируясь на рынок Европы и Средней Азии.
 
 ## <a id="999"></a> Используемые источники
-[^1]: [Booking web-site](https://www.booking.com/content/about.ru.html)
-[^2]: [Booking traffic statistics](https://www.similarweb.com/ru/website/booking.com)
+[Booking web-site](https://www.booking.com/content/about.ru.html)
+<br/>
+[Booking traffic statistics](https://www.similarweb.com/ru/website/booking.com)
